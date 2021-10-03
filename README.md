@@ -15,3 +15,16 @@
 2. C  
 3. c++  
 4. python
+
+## 최근 관심 분야  
+> 오픈소스  
+> 딥러닝    
+> 블록체인
+***
+> food 
+
+## 관심 사이트 목록
+[구글][Google]
+
+
+[Google]: www.google.com  
